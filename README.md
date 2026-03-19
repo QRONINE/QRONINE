@@ -34,10 +34,10 @@ I **engineer complete systems end-to-end**.
 
 ## 🚀 Currently  
 
-- 🤖 Building **ROS 2 robotic systems with IK + motion planning**  
-- ⚡ Working on **closed-loop actuator control systems**  
-- 🧠 Exploring **Reinforcement Learning in robotics**  
-- 🐧 Deep diving into **Embedded Linux systems**  
+-  Building **ROS 2 robotic systems with IK + motion planning**  
+-  Working on **closed-loop actuator control systems**  
+-  Exploring **Reinforcement Learning in robotics**  
+-  Deep diving into **Embedded Linux systems**  
 
 ---
 
@@ -93,7 +93,7 @@ I **engineer complete systems end-to-end**.
 - Custom handheld console
 - Device Tree + GPIO mapping
 - Custom:
-  - Class-D audio circuit
+  - Class-AB audio circuit
   - Power system
 - Fully 3D printed enclosure
 
@@ -133,24 +133,7 @@ I **engineer complete systems end-to-end**.
 
 ---
 
-<!-- ================= STATS ================= -->
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
 
 <!-- ================= ACHIEVEMENTS ================= -->
 
