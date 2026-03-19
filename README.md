@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">⚡ NILIN MAROLI</h1>
+<h1 align="center"> NILIN MAROLI</h1>
 <h3 align="center">Robotics • Embedded Systems • Mechatronics</h3>
 
 <p align="center">
