@@ -182,4 +182,4 @@ Mechatronics Opportunities
 📧 sunilkumarnilinm@gmail.com
 ```
 <!-- ================= FOOTER ================= --> 
-<p align="center"> ⭐ If you like my work, consider starring my repositories! </p> ```
+<p align="center"> ⭐ If you like my work, consider starring my repositories! </p> 
