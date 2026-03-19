@@ -166,3 +166,20 @@ I **engineer complete systems end-to-end**.
 ```text
 If it doesn’t move, I make it move.
 If it moves, I make it smarter.
+```
+<!-- ================= CONTACT ================= -->
+## 🤝 Let’s Build
+
+```text
+I’m open to:
+
+Robotics Internships
+
+Embedded Systems Roles
+
+Mechatronics Opportunities
+
+📧 sunilkumarnilinm@gmail.com
+```
+<!-- ================= FOOTER ================= --> 
+<p align="center"> ⭐ If you like my work, consider starring my repositories! </p> ```
