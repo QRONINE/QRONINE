@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="mailto:sunilkumarnilinm@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">💼 LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/nilin-m">💼 LinkedIn</a> •
+  <a href="https://github.com/QRONINE">💻 GitHub</a> •
   <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a>
 </p>
 
