@@ -149,7 +149,7 @@ I **engineer complete systems end-to-end**.
 
 <!-- ================= LEADERSHIP ================= -->
 
-## 🧭 Leadership  
+<!--## 🧭 Leadership  
 
 **ACM Student Chapter — Community Manager**  
 
@@ -157,7 +157,7 @@ I **engineer complete systems end-to-end**.
 - Increased participation by **20%**  
 - Delivered **100% on-time events**  
 
----
+-->
 
 <!-- ================= QUOTE ================= -->
 
